@@ -2,8 +2,6 @@
 :wave: Hi, i am Florian,
 my interests are anything that involves software as well as hardware.
 
-I am currently in the 
-
 
 I'm currently working on [this repository](https://github.com/AgentSchmisch/slider-turntable)
 
