@@ -3,7 +3,7 @@
 my interests are anything that involves software as well as hardware.
 
 
-🖥️ I'm currently working on [this repository](https://github.com/AgentSchmisch/Lazy-Slider)
+🖥️ I'm currently working on [this repository](github.com/AgentSchmisch/NAS_mgmt)
 
 ---
 <div align:"center">
