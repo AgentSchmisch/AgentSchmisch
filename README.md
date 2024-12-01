@@ -2,8 +2,10 @@
 :wave: Hi, i am Florian,
 my interests are anything that involves software as well as hardware.
 
+I am currently enrolled in the bachelor study programme Creatvie Computing at St. Pölten UAS
 
-🖥️ I'm currently working on [this repository](http://github.com/AgentSchmisch/NAS_mgmt)
+
+🖥️ I'm currently working on [this repository](http://github.com/AgentSchmisch/AdventOfCode2024)
 
 ---
 <div align:"center">
